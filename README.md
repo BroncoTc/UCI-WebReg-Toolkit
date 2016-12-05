@@ -1,2 +1,3 @@
-# uci-webreg-crawler
-A set of tools to search on the course list of WebReg.
+# UCI WebReg Toolkit
+This is a set of tool helping people at UCI deal with WebReg more easily.
+
